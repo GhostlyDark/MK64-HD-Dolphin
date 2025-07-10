@@ -4,7 +4,7 @@ This is a high-definition texture pack for the game Mario Kart 64, for emulators
 
 [Discord Server](https://discord.gg/Wva8Rwf)
 
-![](/mk64hd-dolphin.jpg)
+![](/mk64-reloaded-dolphin.jpg)
 
 # Install (Wii VC)
 1. Grab the latest [Dolphin development build](https://dolphin-emu.org/download/)
